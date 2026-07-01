@@ -1,4 +1,4 @@
-# 🔥 Keeps bot alive  
+# 🔥 Keeps bot alive   
 
 ### 🛠️ **Keep Your Bots Alive Without a Server!**  
 
