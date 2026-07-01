@@ -25,5 +25,5 @@ jobs:
         env:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWNER_ID: ${{ secrets.OWNER_ID }}
-          BOT_TOKENS: ${{ secrets.BOT_TOKENS }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKENS }}
         run: python bot.py
