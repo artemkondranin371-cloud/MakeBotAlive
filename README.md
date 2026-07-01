@@ -163,7 +163,7 @@ name: Run Bot Status Check
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * *"
   workflow_dispatch:
 
 jobs:
